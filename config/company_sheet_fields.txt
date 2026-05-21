@@ -1,0 +1,18 @@
+# Company Sheet Fields
+# Add one field per line. Lines starting with # are ignored.
+# These fields will be extracted for each company.
+company_name
+website
+linkedin_url
+headquarters_location
+founded_year
+employee_count
+annual_revenue
+business_description
+key_products_services
+target_markets
+key_customers
+technology_focus
+certifications
+contact_email
+contact_phone

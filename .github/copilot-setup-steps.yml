@@ -1,0 +1,7 @@
+# Copilot Setup Steps
+# Pre-installs Python dependencies so the Copilot cloud agent
+# can run the market research agent without any manual setup.
+
+steps:
+  - name: Install Python dependencies
+    run: pip install -r requirements.txt
