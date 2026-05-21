@@ -1,0 +1,6 @@
+# Market Sub-Segment - Sub-Categories
+# Add one sub-category per line. Lines starting with # are ignored.
+test service
+fab service
+packaging
+epitaxy
